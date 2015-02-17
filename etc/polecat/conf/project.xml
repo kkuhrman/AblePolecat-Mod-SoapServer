@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<polecat_project xmlns:polecat="http://polecat.kuhrman.com/">
+  <polecat:package id="b64ba05d-a029-11e4-976e-0050569e00a2" name="AblePolecat-Mod-SoapServer" type="MOD">
+    <polecat:repositoryUrl>https://github.com/kkuhrman/AblePolecat-Mod-SoapServer</polecat:repositoryUrl>
+  </polecat:package>
+</polecat_project>

@@ -1,6 +1,6 @@
 <?php
 /**
- * @file      polecat/core/Service/Soap.php
+ * @file      AblePolecat-Mod-SoapServer/usr/src/Service/Soap.php
  * @brief     Interface for any class encapsulating inbound or outbound SOAP message.
  *
  * @author    Karl Kuhrman

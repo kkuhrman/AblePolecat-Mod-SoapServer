@@ -1,6 +1,6 @@
 <?php
 /**
- * @file      polecat/core/Service/Soap/Listener.php
+ * @file      AblePolecat-Mod-SoapServer/usr/src/Service/Soap/Listener.php
  * @brief     Interface for any class which accepts incoming SOAP message.
  *
  * @author    Karl Kuhrman
